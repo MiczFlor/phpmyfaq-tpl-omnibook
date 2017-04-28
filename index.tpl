@@ -68,7 +68,7 @@
                       <span class="icon-bar"></span>
                       <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#"><img src="assets/template/omnibook/img/logo-header.png" alt="Logo" class="img-responsive"></a>              
+                    <a class="navbar-brand" href="#"><img src="assets/template/{tplSetName}/img/logo-header.png" alt="Logo" class="img-responsive"></a>              
                     <!--a id="logo" title="{header}" href="{faqHome}">
                         
                     </a-->
