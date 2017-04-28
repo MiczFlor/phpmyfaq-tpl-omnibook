@@ -1,0 +1,39 @@
+
+/* navigation in sidebar */
+aside .nav-tabs > li.active > a, 
+aside .nav-tabs > li.active > a:hover, 
+aside .nav-tabs > li.active > a:focus {
+    background-color: #cccccc;
+    color: #ffffff;
+}
+aside .nav-tabs > li > a {
+    border: 1px solid #cccccc;
+    background-color: #f5f5f5;
+}
+a,
+a:hover,
+a:focus {
+    color: #ff6600;
+}
+
+ul.pmf-category-overview {
+    margin: 0;
+    padding: 0;
+}
+ul.pmf-category-overview li {
+    display: block;
+    height: 100px;
+    float: left;
+    border: 1px solid #ff6600;
+    width: 30%;
+    margin-right: 3%;
+    margin-bottom: 3%;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.3em;
+    line-height: 1.1em;
+}
+ul.pmf-category-overview li span {
+    display: block;
+    font-size: 0.7em;
+}
